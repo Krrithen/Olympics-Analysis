@@ -13,3 +13,7 @@ This project, completed as part of the **Skill India AI ML Project**, focuses on
 
 By leveraging data science techniques, this analysis provides valuable insights into Olympic trends and achievements.
 
+## Files
+
+- `summer.ipynb`: Contains the complete analysis.
+- `summer.csv`: The dataset used for the analysis.
