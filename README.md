@@ -1,13 +1,15 @@
-# Olympics-Analysis
-The Olympics Analysis deals with the analysis of the Summer Olympics data which is done as part of the Skill India AI ML Assignment.
+# Summer Olympics Analysis
 
-By the analysis the following Questions were answered.
+This project, completed as part of the **Skill India AI ML Project**, focuses on analyzing data from the **Summer Olympics**. The analysis answers key questions related to Olympic history, including:
 
-1. In how many cities Summer Olympics is held so far?
-2. Which sport is having most number of Gold Medals so far?
-3. Which sport is having most number of medals so far?
-4. Which player has won most number of medals?
-5. Which player has won most number Gold Medals of medals?
-6.  In which year India won first Gold Medal in Summer Olympics?
-7.  Which event is most popular in terms on number of players?
-8.  Which sport is having most female Gold Medalists?
+- The number of cities that have hosted the Summer Olympics.
+- The sport with the most Gold Medals awarded so far.
+- The sport with the highest total number of medals.
+- The player who has won the most medals overall.
+- The player with the most Gold Medals.
+- The year in which India won its first Gold Medal.
+- The most popular Olympic event based on player participation.
+- The sport with the highest number of female Gold Medalists.
+
+By leveraging data science techniques, this analysis provides valuable insights into Olympic trends and achievements.
+
